@@ -20,9 +20,7 @@
         "isScrollToTopButton": false,
         "isRtl": false
       },
-      "additionalSetColors": [
-        "#282828"
-      ]
+      "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.6",
